@@ -1,0 +1,5 @@
+
+html {
+  /* stops the wiggle of content as pages swap with and without scrollbars */
+  margin-left: calc(100vw - 100%); 
+}

@@ -1,0 +1,14 @@
+h5 {
+  color: rgb(4, 4, 71);
+}
+
+.card .card-header {
+  color: white;
+  background-color:rgb(108, 178, 235);
+  font-size: 1.8em
+}
+
+.card {
+  border-top: none;
+  border-color: lightblue;
+}

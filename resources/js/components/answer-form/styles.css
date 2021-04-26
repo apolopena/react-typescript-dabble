@@ -1,0 +1,12 @@
+.no-border {
+  border: none;
+}
+
+.error {
+  font-size: 0.85em;
+  color: red;
+}
+
+.smaller {
+  font-size: 1.25rem !important;
+}

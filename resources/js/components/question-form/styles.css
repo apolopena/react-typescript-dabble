@@ -1,0 +1,15 @@
+.no-border {
+  border: none;
+}
+
+.error {
+  font-size: 0.85em;
+  color: red;
+}
+
+/*
+.narrower-centered {
+  margin: 0 auto;
+  width: 90%;
+}
+*/
