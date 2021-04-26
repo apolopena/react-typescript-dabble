@@ -11,6 +11,9 @@
 # Load logger
 . .gp/bash/workspace-init-logger.sh
 
+# We dont use resources/js/app.js so remove this scaffolding file
+[[ -f resources/js/app.js ]] && rm resources/js/app.js
+
 # BEGIN example code block - migrate database
 # COMMENT: Load spinner
 # . .gp/bash/spinner.sh
