@@ -14,7 +14,6 @@
         "axios": "^0.21",
         "bootstrap": "^4.0.0",
         "browser-sync": "^2.26.14",
-        "gulp-connect-php": "^1.0.3",
         "jquery": "^3.2",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
