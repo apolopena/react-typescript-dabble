@@ -13,6 +13,8 @@
         "@babel/preset-react": "^7.13.13",
         "axios": "^0.21",
         "bootstrap": "^4.0.0",
+        "browser-sync": "^2.26.14",
+        "gulp-connect-php": "^1.0.3",
         "jquery": "^3.2",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
@@ -29,6 +31,7 @@
     "dependencies": {
         "@types/react": "^17.0.4",
         "@types/react-dom": "^17.0.3",
+        "browser-sync-webpack-plugin": "^2.3.0",
         "react-router-dom": "^5.2.0"
     }
 }
