@@ -14,6 +14,10 @@
 # We dont use resources/js/app.js so remove this scaffolding file
 [[ -f resources/js/app.js ]] && rm resources/js/app.js
 
+# setup data
+php artisan migrate
+php artisan db:seed
+
 # BEGIN example code block - migrate database
 # COMMENT: Load spinner
 # . .gp/bash/spinner.sh
